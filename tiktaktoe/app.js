@@ -1,7 +1,7 @@
 /**********************************************
  * File: app.js
  * Description: A simple Tic-Tac-Toe game
- * Author: [Your Name]
+ * Author: [Yusuf Doria]
  **********************************************/
 
 // Select the status display element from the DOM.
